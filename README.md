@@ -29,3 +29,14 @@ API:
 ## Architecture
 
 React frontend communicates with a FastAPI backend which stores wishlist data in MongoDB and fetches deal information from the CheapShark API.
+
+## Screenshots
+
+### Search Page
+![Search Page](screenshots/searchpage.png)
+
+### Wishlist
+![Wishlist](screenshots/wishlist.png)
+
+### Deals
+![Deals](screenshots/homepage.png)
