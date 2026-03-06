@@ -33,10 +33,10 @@ React frontend communicates with a FastAPI backend which stores wishlist data in
 ## Screenshots
 
 ### Search Page
-![Search Page](screenshots/searchpage.png)
+![Search Page](Screenshots/Searchpage.png)
 
 ### Wishlist
-![Wishlist](screenshots/wishlist.png)
+![Wishlist](Screenshots/Wishlist.png)
 
 ### Deals
-![Deals](screenshots/homepage.png)
+![Deals](Screenshots/Homepage.png)
